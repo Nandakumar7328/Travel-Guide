@@ -1,0 +1,26 @@
+.li-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #ffffff;
+  width: 500px;
+  margin: 20px;
+}
+.image-resize {
+  width: 500px;
+  height: 300px;
+}
+.name-para {
+  color: #475569;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding-left: 10px;
+}
+.description-para {
+  font-size: 16px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+  color: #64748b;
+}
